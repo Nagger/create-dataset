@@ -1,0 +1,37 @@
+{
+  "name": "create-docset",
+  "version": "0.0.9",
+  "description": "create Dash docset in CLI",
+  "keywords": [
+    "docset dash"
+  ],
+  "author": "pin",
+  "license": "MIT",
+  "bin": {
+    "create-docset": "main.js"
+  },
+  "dependencies": {
+    "command-line-args": "^4.0.7",
+    "rimraf": "^2.6.2",
+    "showdown": "^1.8.2",
+    "showdown-highlight": "^1.0.2",
+    "lodash": "^4.17.11",
+    "mkdirp": "^0.5.0",
+    "q": "^1.0.1",
+    "request": "^2.36.0",
+    "sqlite3": "^4.0.6"
+  },
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "create-docset"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagger/create-dataset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nagger/create-dataset/issues"
+  },
+  "homepage": "https://github.com/Nagger/create-dataset#readme"
+}

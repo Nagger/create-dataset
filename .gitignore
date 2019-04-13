@@ -1,0 +1,9 @@
+docSet.dsidx
+node_modules/
+build/
+html/
+dev-html/
+npm-debug.log
+*.swp
+.DS_Store
+.code-workspace
