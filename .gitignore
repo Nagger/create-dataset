@@ -1,9 +1,11 @@
 docSet.dsidx
 node_modules/
+source_doc/
 build/
+docset/
 html/
 dev-html/
 npm-debug.log
 *.swp
 .DS_Store
-.code-workspace
+*.code-workspace
